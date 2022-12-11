@@ -1,0 +1,24 @@
+.imgBandera {
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+    border: 0.2rem;
+}
+
+.alternativaContainer {
+    margin: 0.5rem 1rem;
+    border: 0.15rem solid rgba(0, 0, 0, 0.747);
+    border-radius: 0.5rem;
+}
+
+.imgCamiseta {
+    border-radius: 1rem;
+}
+
+.card {
+    width: 30rem;
+}
+
+.button:hover {
+    box-shadow: 0 0 10px 0 #390122 inset, 0 0 10px 4px #390122;
+  }
